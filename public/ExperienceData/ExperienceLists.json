@@ -1,0 +1,29 @@
+{
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "Delta India, Pune, India (Hybrid)",
+        "duration": "July 2022 - Present",
+        "responsibilities": [
+          "Developed dynamic web applications using ReactJS, enhancing user engagement by 30% for 2,000+ users.",
+          "Improved system performance by reducing data retrieval time by 40% through effective RESTful API integration.",
+          "Led agile sessions, translating user stories into actionable tasks, resulting in the timely delivery of 4+ high-impact projects.",
+          "Boosted code reliability by 30% through comprehensive unit testing and reduced version control conflicts by 40% using Git.",
+          "Skilled in React, Redux, React Router, advanced JavaScript (ES6+), TypeScript, and modern front-end build tools.",
+          "Optimized performance using Webpack, Babel, and code-splitting techniques."
+        ]
+      },
+      {
+        "title": "Web Development",
+        "company": "Internshala, Gurugram, India (Remote)",
+        "duration": "May 2020 - June 2020",
+        "responsibilities": [
+          "Built responsive web applications with HTML, CSS, JavaScript, and React, enhancing user interaction.",
+          "Integrated RESTful APIs to improve web application functionality and user experience.",
+          "Collaborated using Git for version control, ensuring efficient codebase management and team coordination.",
+          "Applied best practices for coding to optimize web applications for speed and scalability."
+        ]
+      }
+    ]
+  }
+  
