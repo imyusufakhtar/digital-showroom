@@ -20,7 +20,8 @@ const ContactInfo = () => {
 
   // Render loading state or error message if needed
   if (!data) {
-    return <div className="loading"></div>;
+    // return <div className="loading"></div>;
+    return null;
   }
 
   return (
