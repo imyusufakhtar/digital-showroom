@@ -19,7 +19,8 @@ const ResumeSkills = () => {
   }, []); // Empty dependency array ensures this effect runs only once
 
   if (!data) {
-    return <div className="loading"></div>;
+    // return <div className="loading"></div>;
+    return null;
   }
 
   return (
