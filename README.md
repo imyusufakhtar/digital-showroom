@@ -83,7 +83,7 @@ The **Digital Showroom** is a comprehensive and fully responsive web application
 
 ## Live Demo
 
-Access the live application here: [Digital Showroom Live](https://md-yusuf.netlify.app/)
+Access the live application here: [Digital Showroom Live](https://md-yusuf-v1.netlify.app/)
 
 ---
 
